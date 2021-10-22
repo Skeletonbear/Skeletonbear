@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Experience Languages and Tools:
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td>
