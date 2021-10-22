@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
   <a href="https://github.com/Skeletonbear" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
-<p>[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)</p>
 
 <div align="center">
 <a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
