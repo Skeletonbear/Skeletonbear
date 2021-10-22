@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Experience Languages and Tools:
-<table style="blackground-color: white">
+<table style="background-color: white">
     <tbody>
         <tr>
             <td>
