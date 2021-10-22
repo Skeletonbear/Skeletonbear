@@ -79,7 +79,7 @@
             </td>
                        <td>
                 <a href="#">
-                    <img alt="postman" title="postman" height="28px" src="https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg" />
+                    <img alt="postman" title="postman" height="28px" src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" />
                 </a>
             </td>
         </tr>
