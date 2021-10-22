@@ -173,3 +173,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" width="410" /></p>
 
+<img align="center" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
