@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://instagram.com/___pentakill?utm_medium=copy_link" target="blank"><img align="center" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="___pentakill" height="30" width="40" /></a>
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="___pentakill" height="40" width="40" /></a>
 <a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
-         src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="40" width="50"/></a>
+         src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="50" width="40"/></a>
  <a href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" /></a>
 </p>
