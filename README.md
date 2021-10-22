@@ -7,11 +7,11 @@
 
 
 ## 👨‍💻 Experience Languages and Tools:
-<table >
+<table>
     <tbody>
         <tr>
-            <td bg="white">
-                <a href="https://tailwindcss.com/" target="_blank">
+            <td>
+                <a href="https://tailwindcss.com/" target="_white" >
                     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
                 </a>
             </td>
@@ -43,11 +43,6 @@
         </tr>
         <tr>
             <td>
-                <a href="https://codeigniter.com" target="_blank">
-                    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-                </a>
-            </td>
-            <td>
                 <a href="https://nodejs.org" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
                 </a>
@@ -57,7 +52,7 @@
                     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
                 </a>
             </td>
-            <td>
+            <td >
                 <a href="https://www.mongodb.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 </a>
@@ -100,6 +95,7 @@
     </td>
 </tbody>
 </table>
+
 
 
 ## 📈 Github Stats
