@@ -14,7 +14,7 @@
 - 📫 How to reach me : piyathida.thwan@gmail.com 
 
 
-## 👨‍💻 ***Experience Languages and Tools:***
+👨‍💻 ***Experience Languages and Tools:***
 <table align="center">
     <tbody>
         <tr>
