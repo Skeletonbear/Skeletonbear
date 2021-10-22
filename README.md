@@ -62,16 +62,17 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
                 </a>
             </td>
+            <td>
+                <a href="https://git-scm.com/" target="_blank">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+                </a>
+            </td>
         </tr>
         <!-- <tr>          
 
         </tr> -->
 
-        <td>
-            <a href="https://git-scm.com/" target="_blank">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-            </a>
-        </td>
+       
         <td>
             <a href="#">
                 <img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" />
@@ -94,20 +95,6 @@
         </td>
     </td>
 </tbody>
-</table>
-
-<table style="background-color:#FFFFE0;">
-    <tbody>
-<tr style="background-color:#BDB76B;color:#ffffff;">
-<th>Table Header</th><th>Table Header</th>
-</tr>
-<tr>
-<td>Table cell 1</td><td>Table cell 2</td>
-</tr>
-<tr>
-<td>Table cell 3</td><td>Table cell 4</td>
-</tr>
-        </tbody>
 </table>
 
 ## 📈 Github Stats
