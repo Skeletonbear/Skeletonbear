@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Experience Languages and Tools:
-<table>
+<table bg="white">
     <tbody>
         <tr>
             <td>
