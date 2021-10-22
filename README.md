@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
 
-<a align="center" href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
-         src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="70" width="60"/></a>
- <a align="center" href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
-         src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
+# Kunal Raghav  
+[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
+
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
