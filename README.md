@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
-  <a href="https://github.com/Skeletonbear" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
 
 <div align="center">
 <a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
