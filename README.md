@@ -42,7 +42,7 @@
             </td>
             <td>
                 <a href="#">
-                    <img alt="Visual Studio" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+                    <img alt="Visual Studio" title="Visual Studio Code" width="40" height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
                 </a>
             </td>
         </tr>
@@ -69,17 +69,17 @@
             </td>
             <td>
                 <a href="#">
-                    <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+                    <img alt="Terminal" title="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
+                    <img alt="GitHub" title="GitHub" width="40" height="40" src="https://i.imgur.com/DZgetVv.png" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="postman" title="postman" height="28px" src="http://1.bp.blogspot.com/-zpFycyecyMI/VcGzN99b6nI/AAAAAAAAAfs/SKdApnfD1I4/s1600/logo-postman-icon.png" />
+                    <img alt="postman" title="postman" width="40" height="40" src="http://1.bp.blogspot.com/-zpFycyecyMI/VcGzN99b6nI/AAAAAAAAAfs/SKdApnfD1I4/s1600/logo-postman-icon.png" />
                 </a>
             </td>
         </tr>
@@ -91,7 +91,7 @@
             </td>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png" alt="eclipse" width="40" height="40"/>
+                    <img src="https://e7.pngegg.com/pngimages/631/720/png-clipart-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-thumbnail.png" alt="eclipse" width="40" height="40"/>
                 </a>
             </td>
             <td >
@@ -122,6 +122,8 @@
         </tr>
     </tbody>
 </table>
+
+
 
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
