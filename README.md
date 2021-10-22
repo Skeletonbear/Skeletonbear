@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## 📈 Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jame3032002&show_icons=true&locale=en" alt="jame3032002" />
+<br />
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jame3032002&show_icons=true&locale=en&layout=compact" alt="jame3032002" />
 
