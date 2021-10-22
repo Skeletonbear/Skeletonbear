@@ -84,10 +84,11 @@
                     <img alt="Visual Studio" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
                 </a>
             </td>
-        </td>
-  
-</tbody>
+        
+    </tbody>
 </table>
+
+
 
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
