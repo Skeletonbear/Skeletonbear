@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
+[<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Mymewskeletonbaer/)
+<br> <br>
 
 <!-- <div align="center">
 <a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
@@ -20,7 +22,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
