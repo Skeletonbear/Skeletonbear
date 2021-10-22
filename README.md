@@ -7,15 +7,15 @@
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
 </div>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... </h2>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi 
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology                    
 - 📫 How to reach me : piyathida.thwan@gmail.com 
 </br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Experience Languages and Tools :</h2>
- <table align="center">
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Experience Languages and Tools :</h2>
+ <table>
     <tbody>
          <tr>
             <td>
@@ -144,7 +144,7 @@
 </table> </br> 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>Git Activeness</b></i>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>Git Activeness</b></i> </h2>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" width="410" /></p>
