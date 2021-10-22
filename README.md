@@ -174,5 +174,3 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" width="410" /></p>
 <br>
 
-<img align="center"  src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
