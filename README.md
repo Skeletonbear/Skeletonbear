@@ -12,9 +12,10 @@
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi 
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology                    
 - 📫 How to reach me : piyathida.thwan@gmail.com 
+</br>
 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Experience Languages and Tools :***\
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Experience Languages and Tools :***
+</br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -32,9 +33,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-<table align="center">
-    <tbody>
-        <tr>
+<!-- <table align="center">
+<!--     <tbody>
+<!--         <tr>
             <td>
                 <a href="https://tailwindcss.com/" target="_blank">
                     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
@@ -49,7 +50,7 @@
             </td>
             <td>
                 <a href="https://www.w3schools.com/css/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  
                     alt="css3" title="CSS" width="40" height="40"/>
                 </a>
             </td>
@@ -105,7 +106,7 @@
             <td>
                 <a href="#">
                     <img alt="Terminal" title="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-                </a>
+                </a> 
             </td>
             <td>
                 <a href="#">
@@ -158,7 +159,7 @@
             </td>
         </tr>
     </tbody>
-</table> </br>
+</table> </br> -->
 
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
