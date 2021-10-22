@@ -102,7 +102,7 @@
             </td>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://mpng.subpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg"
+                    <img src="https://i.dlpng.com/static/png/7199121_preview.png"
                      alt="eclipse" title="Eclipse" width="40" height="40"/>
                 </a>
             </td>
