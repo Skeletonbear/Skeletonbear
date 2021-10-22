@@ -68,10 +68,9 @@
                 </a>
             </td>
         </tr>
-        <tr>          
+        <!-- <tr>          
 
-       <!-- /tr> -->
-
+        </tr> -->
         <td>
             <a href="#">
                 <img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
