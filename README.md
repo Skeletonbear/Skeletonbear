@@ -36,54 +36,56 @@
                 </a>
             </td>
         </tr>
-<!-- space -->
+        <!-- space -->
         <tr>
             <td>
                 <a href="https://www.docker.com/" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
                 </a>
             </td>
-              
+
             <td>
-                <a href="https://nodejs.org" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+                <a href="https://nextjs.org/" target="_blank">
+                    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
                 </a>
             </td>
+
             <td>
                 <a href="https://www.mongodb.com/" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.mysql.com/" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="#">
-                  <img lt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" />
+                    <img lt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" />
                 </a>
             </td>
-      </tr>
-<!-- space -->
-        <td>
-          <a href="#">
-            <img alt="GitHub" ทtitle="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
-          </a>
-        </td>
-        <td>
-            <a href="#">
-              <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-            </a>
-        </td>
-        <td>
-            <a href="#">
-              <img alt="Visual Studio" title="Visual Studio Code"  height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-            </a>
-        </td>
-      </td>
+        </tr>
+        <!-- space -->
+        <tr>
+            <td>
+                <a href="#">
+                    <img alt="GitHub" ทtitle="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
+                </a>
+            </td>
+            <td>
+                <a href="#">
+                    <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+                </a>
+            </td>
+            <td>
+                <a href="#">
+                    <img alt="Visual Studio" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+                </a>
+            </td>
+        </tr>
     </tbody>
-  </table>
+</table>
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
 
