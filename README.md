@@ -97,6 +97,7 @@
 </table>
 
 <table style="background-color:#FFFFE0;">
+    <tbody>
 <tr style="background-color:#BDB76B;color:#ffffff;">
 <th>Table Header</th><th>Table Header</th>
 </tr>
@@ -106,6 +107,7 @@
 <tr>
 <td>Table cell 3</td><td>Table cell 4</td>
 </tr>
+        </tbody>
 </table>
 
 ## 📈 Github Stats
