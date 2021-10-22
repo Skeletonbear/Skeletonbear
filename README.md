@@ -143,12 +143,12 @@
     </tbody>
 </table>
 
-<p align="center">
+##<p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Skeletonbear" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Skeletonbear&show_icons=true&locale=en&theme=chartreuse-dark" alt="Skeletonbear" width="410" /></p>
 
-## 📈 Github Stats
+ 📈 Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
 
