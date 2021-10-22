@@ -63,21 +63,15 @@
                 </a>
             </td>
             <td>
-                <a href="https://git-scm.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+                <a href="#">
+                    <img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" />
                 </a>
             </td>
         </tr>
-        <!-- <tr>          
+        <tr>          
 
-        </tr> -->
+       <!-- /tr> -->
 
-       
-        <td>
-            <a href="#">
-                <img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" />
-            </a>
-        </td>
         <td>
             <a href="#">
                 <img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
