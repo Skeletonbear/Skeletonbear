@@ -49,7 +49,7 @@
         <tr>
             <td>
                 <a href="https://nodejs.org" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+                    <img src="https://miro.medium.com/max/1400/1*gcG_duCl1v0SP6fyVbv67Q.png" alt="nodejs" width="40" height="40"/>
                 </a>
             </td>
             <td>
@@ -86,7 +86,7 @@
         <tr>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="40" height="40"/>
+                    <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="Oracle_SQL" width="40" height="40"/>
                 </a>
             </td>
             <td>
@@ -122,8 +122,6 @@
         </tr>
     </tbody>
 </table>
-
-
 
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
