@@ -79,49 +79,51 @@
             </td>
             <td>
                 <a href="#">
-                    <img alt="postman" title="postman" height="28px" src="https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg" />
+                    <img alt="postman" title="postman" height="28px" src="http://1.bp.blogspot.com/-zpFycyecyMI/VcGzN99b6nI/AAAAAAAAAfs/SKdApnfD1I4/s1600/logo-postman-icon.png" />
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://nodejs.org" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+                <a href="#" target="_blank">
+                    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="40" height="40"/>
                 </a>
             </td>
             <td>
-                <a href="https://firebase.google.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+                <a href="#" target="_blank">
+                    <img src="https://e7.pngegg.com/pngimages/631/720/png-clipart-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-thumbnail.png" alt="eclipse" width="40" height="40"/>
                 </a>
             </td>
             <td >
-                <a href="https://www.mongodb.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+                <a href="#" target="_blank">
+                    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" height="40"/>
                 </a>
             </td>
             <td>
-                <a href="https://www.mysql.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-                </a>
-            </td>
-            <td>
-                <a href="#">
-                    <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+                <a href="#" target="_blank">
+                    <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="Azure " width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" />
+                    <img alt="XML" title="Terminal" height="28px" src="https://icons-for-free.com/iconfiles/png/512/file+xml+icon-1320183613266774856.png" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="postman" title="postman" height="28px" src="https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg" />
+                    <img alt="java" title="java" height="28px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
+                </a>
+            </td>
+            <td>
+                <a href="#">
+                    <img alt="Vue.js " title="Vue.js " height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
+
+
 
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
