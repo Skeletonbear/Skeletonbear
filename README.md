@@ -12,9 +12,9 @@
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi 
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology                    
 - 📫 How to reach me : piyathida.thwan@gmail.com 
-</br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Experience Languages and Tools :***</br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Experience Languages and Tools :***\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
