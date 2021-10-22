@@ -1,5 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 
+<p align="center">
+<a href="https://instagram.com/___pentakill?utm_medium=copy_link" target="blank"><img align="center" 
+         src="https://happyhoundscolorado.com/wp-content/uploads/instagram-logo-7596E83E98-seeklogo.com_.png" alt="___pentakill" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
+         src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="30" width="40" /></a>
+ <a href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
+         src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" /></a>
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi 
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology                    
