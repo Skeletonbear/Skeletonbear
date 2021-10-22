@@ -79,7 +79,7 @@
             </td>
                        <td>
                 <a href="#">
-                    <img alt="postman" title="postman" height="28px" src="https://raw.githubusercontent.com/postmanlabs/postmanlabs.github.io/develop/global-artefacts/postman-logo%2Btext-320x132.png" />
+                    <img alt="postman" title="postman" height="28px" src="http://1.bp.blogspot.com/-zpFycyecyMI/VcGzN99b6nI/AAAAAAAAAfs/SKdApnfD1I4/s1600/logo-postman-icon.png" />
                 </a>
             </td>
         </tr>
