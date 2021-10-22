@@ -6,8 +6,9 @@
  <a href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
 </div>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... </h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi <br>
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology     <br>               
