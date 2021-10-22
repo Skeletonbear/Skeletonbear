@@ -7,14 +7,14 @@
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi 
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology                    
 - 📫 How to reach me : piyathida.thwan@gmail.com 
 
 
-👨‍💻 ***Experience Languages and Tools:***
+##👨‍💻 ***Experience Languages and Tools:***
 <table align="center">
     <tbody>
         <tr>
@@ -144,7 +144,7 @@
 </table>
 
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+##<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" width="410" /></p>
