@@ -91,7 +91,7 @@
             </td>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://e7.pngegg.com/pngimages/631/720/png-clipart-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-thumbnail.png" alt="eclipse" width="40" height="40"/>
+                    <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png" alt="eclipse" width="40" height="40"/>
                 </a>
             </td>
             <td >
@@ -106,24 +106,22 @@
             </td>
             <td>
                 <a href="#">
-                    <img alt="XML" title="Terminal" height="28px" src="https://icons-for-free.com/iconfiles/png/512/file+xml+icon-1320183613266774856.png" />
+                    <img alt="XML" title="XML" width="40" height="40" src="https://icons-for-free.com/iconfiles/png/512/file+xml+icon-1320183613266774856.png" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="java" title="java" height="28px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
+                    <img alt="java" title="java" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
                 </a>
             </td>
             <td>
                 <a href="#">
-                    <img alt="Vue.js " title="Vue.js " height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+                    <img alt="Vue.js " title="Vue.js " width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
-
-
 
 ## 📈 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeletonbear&show_icons=true&locale=en&layout=compact" alt="Skeletonbear" />
