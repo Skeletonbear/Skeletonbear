@@ -1,12 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
-<!-- <div align="center">
-<a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
+
+<a align="center" href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
          src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="70" width="60"/></a>
- <a href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
+ <a align="center" href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
-</div> -->
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🔭 I’m currently working on ... <br>
