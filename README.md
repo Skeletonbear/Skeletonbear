@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/Mymewskeletonbaer/" target="blank"><img align="center" 
          src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Piyathida Thaneewan" height="60" width="40"/></a>
  <a href = "mailto: piyathida.thwan@gmail.com"><img align="center" 
-         src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="50" width="40" /></a>
+         src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="35" /></a>
 </p>
 
 - 🔭 I’m currently working on ...
