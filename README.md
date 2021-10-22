@@ -7,7 +7,7 @@
          src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="50" /></a>
 </div>
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... </h2><img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi <br>
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology     <br>               
