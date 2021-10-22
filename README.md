@@ -7,37 +7,43 @@
 
 
 ## 👨‍💻 Experience Languages and Tools:
-<table style="background-color:#FFFFE0;">
+<table>
     <tbody>
         <tr>
             <td>
                 <a href="https://tailwindcss.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+                    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+                    alt="tailwind" title="tailwind" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://getbootstrap.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+                    alt="bootstrap" title="bootstrap" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.w3schools.com/css/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                    alt="css3" title="CSS" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.w3.org/html/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+                    alt="html5" title="HTML" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+                    alt="javascript" title="javascript" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.docker.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+                    alt="docker" title="Docker" width="40" height="40"/>
                 </a>
             </td>
             <td>
@@ -49,22 +55,26 @@
         <tr>
             <td>
                 <a href="https://nodejs.org" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+                     alt="nodejs" title="nodejs" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://firebase.google.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
+                    alt="firebase" title="firebase" width="40" height="40"/>
                 </a>
             </td>
             <td >
                 <a href="https://www.mongodb.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+                    alt="mongodb" title="mongodb"  width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.mysql.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+                    alt="mysql" title="MySQL" width="40" height="40"/>
                 </a>
             </td>
             <td>
@@ -86,22 +96,24 @@
         <tr>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="Oracle_SQL" width="40" height="40"/>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" 
+                    alt="OracleSQL Developer" title="Oracle SQL Developer" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://mpng.subpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg" alt="eclipse" width="40" height="40"/>
+                    <img src="https://mpng.subpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg"
+                     alt="eclipse" title="Eclipse" width="40" height="40"/>
                 </a>
             </td>
             <td >
                 <a href="#" target="_blank">
-                    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" height="40"/>
+                    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" title="Figma" width="40" height="40"/>
                 </a>
             </td>
             <td>
                 <a href="#" target="_blank">
-                    <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="Azure " width="40" height="40"/>
+                    <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="Azure" title="Azure" width="40" height="40"  />
                 </a>
             </td>
             <td>
@@ -116,7 +128,7 @@
             </td>
             <td>
                 <a href="#">
-                    <img alt="Vue.js " title="Vue.js " width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+                    <img alt="Vue.js" title="Vue.js " width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
                 </a>
             </td>
         </tr>
