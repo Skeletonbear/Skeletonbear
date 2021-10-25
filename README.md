@@ -1,5 +1,5 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
-[![Gmail Badge](https://img.shields.io/badge/-piyathida.thwan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyathida.thwan@gmail.com)](mailto:piyathida.thwan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-piyathida.tnwan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyathida.tnwan@gmail.com)](mailto:piyathida.tnwan@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Piyathida_Thaneewan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mymewskeletonbaer/)](https://www.facebook.com/Mymewskeletonbaer/)
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi <br>
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology     <br>               
-- 📫 How to reach me : piyathida.thwan@gmail.com 
+- 📫 How to reach me : piyathida.tnwan@gmail.com 
 <br><br>
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Experience Languages and Tools :</h2>
 
