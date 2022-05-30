@@ -1,8 +1,8 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 [![Gmail Badge](https://img.shields.io/badge/-piyathida.tnwan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyathida.tnwan@gmail.com)](mailto:piyathida.tnwan@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Piyathida_Thaneewan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mymewskeletonbaer/)](https://www.facebook.com/Mymewskeletonbaer/)
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
-
+<!-- <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
+ -->
 
 
 
