@@ -1,12 +1,12 @@
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piyathida Thaneewan </h1>
 [![Gmail Badge](https://img.shields.io/badge/-piyathida.tnwan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyathida.tnwan@gmail.com)](mailto:piyathida.tnwan@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Piyathida_Thaneewan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mymewskeletonbaer/)](https://www.facebook.com/Mymewskeletonbaer/)
-<!-- <a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
- -->
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=Skeletonbear&label=Profile%20views&color=0e75b6&style=flat" alt="Skeletonbear" /> </a>
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"' >
+
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me .... <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"' > -->
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently education : King Mongkut’s University of Technology Thonburi <br>
 - 🌱 I’m currently syllabus : Bachelor of Science in Information Technology     <br>               
